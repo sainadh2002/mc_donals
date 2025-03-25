@@ -230,7 +230,7 @@ Tableau Public is a valuable tool for anyone who wants to explore data, communic
 
 **3.2. Overview of McDonald's Menu**
 
-**![](https://drive.google.com/file/d/17cl0qBE0kZwxt_7HcCVA9eC5ZJowVTfm/view?usp=drive_link)**
+**(https://drive.google.com/file/d/17cl0qBE0kZwxt_7HcCVA9eC5ZJowVTfm/view?usp=drive_link)**
 
 The table provides a summary of key nutritional elements across different food categories at McDonald's. It includes Calories, Carbohydrates, Cholesterol, Protein, Sodium, Sugars, and Total Fat.
 
